@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cutiedupc
 - 👀 I’m interested in learning python and it application to different sectors
-- 🌱 I’m currently learning Financial Technolgy
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning application of Python in Finance
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me ...+447759517167
 
 <!---
 cutiedupc/cutiedupc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
